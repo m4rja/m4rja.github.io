@@ -1,7 +1,6 @@
-# <a id="home-page"></a> Home Page
+# <a id="home-page"></a> Akinator Overview
 
-> This is the home page.
+> Welcome to the Akinator Document Set!
 
-You can write all the markdown that you want here. You should update this page, the other
-pages, and the left navigation (sidebar.md). The index.html file doesn't contain any of
-the content for the site. These pages use Docsify: https://docsify.js.org/#/?id=docsify
+
+This document set is intended to guide users on how to navigate Akinator. 
